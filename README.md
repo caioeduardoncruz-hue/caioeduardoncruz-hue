@@ -3,7 +3,7 @@
 Eu sou o Caio Eduardo
 
 🎓 Estudante de **Engenharia de Software** (4º semestre)  
-💻 Desenvolvedor em busca de oportunidade **Júnior** na área de Desenvolvimento 
+💻 Desenvolvedor em busca de oportunidade **Júnior** na área de Desenvolvimento          
 🚀 Conhecimentos em **HTML, CSS, JavaScript, React, Node.js e Python**  
 
 ---
