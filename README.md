@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**caioeduardoncruz-hue/caioeduardoncruz-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Caio Eduardo
 
-Here are some ideas to get you started:
+🎓 Estudante de **Engenharia de Software** (4º semestre)  
+💻 Desenvolvedor em busca de oportunidade **Júnior** na área de Desenvolvimento de Software  
+🚀 Conhecimentos em **HTML, CSS, JavaScript, React, Node.js e Python**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js,  
+- **Banco de Dados:** MySQL, MongoDB (básico)  
+- **Outros:** Git, GitHub, Python  
+
+---
+
+## 📫 Como me encontrar
+
+- GitHub:  https://github.com/caioeduardoncruz-hue/caioeduardoncruz-hue
+- LinkedIn:  https://www.linkedin.com/in/caioeduardonascimento/
+- Email: **caioeduardoncruz@gmail.com**  
+
+---
+✨ Obrigado por visitar meu perfil!  
